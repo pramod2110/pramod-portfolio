@@ -1,27 +1,25 @@
 {
   "files": {
     "main.css": "/pramod-portfolio/static/css/main.e78fac0b.css",
-    "main.js": "/pramod-portfolio/static/js/main.3910897a.js",
+    "main.js": "/pramod-portfolio/static/js/main.6e06f87c.js",
     "static/js/453.ace21015.chunk.js": "/pramod-portfolio/static/js/453.ace21015.chunk.js",
-    "static/media/leaf.png": "/pramod-portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/DASHBOARD.png": "/pramod-portfolio/static/media/DASHBOARD.ad19c6da9a21b0837ccd.png",
     "static/media/about.jpg": "/pramod-portfolio/static/media/about.847b0c7899df9e1f4722.jpg",
-    "static/media/emotion.png": "/pramod-portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/pramod-portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/pramod-portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/pramod-portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/bg-port.jpg": "/pramod-portfolio/static/media/bg-port.63cc1340108879a329b9.jpg",
+    "static/media/crack detection.png": "/pramod-portfolio/static/media/crack detection.b1c5f12baf19c9ce3566.png",
     "static/media/Pramod-Kumar-Resume.pdf": "/pramod-portfolio/static/media/Pramod-Kumar-Resume.996017fa8f69d81a00aa.pdf",
     "static/media/home-main.svg": "/pramod-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/home-bg.jpg": "/pramod-portfolio/static/media/home-bg.107f558358c111e7bc2d.jpg",
-    "static/media/chatify.png": "/pramod-portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/weather.jpeg": "/pramod-portfolio/static/media/weather.384c3d90efcb603c132d.jpeg",
     "static/media/avatar.svg": "/pramod-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/pramod-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/pramod-portfolio/index.html",
     "main.e78fac0b.css.map": "/pramod-portfolio/static/css/main.e78fac0b.css.map",
-    "main.3910897a.js.map": "/pramod-portfolio/static/js/main.3910897a.js.map",
+    "main.6e06f87c.js.map": "/pramod-portfolio/static/js/main.6e06f87c.js.map",
     "453.ace21015.chunk.js.map": "/pramod-portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e78fac0b.css",
-    "static/js/main.3910897a.js"
+    "static/js/main.6e06f87c.js"
   ]
 }
