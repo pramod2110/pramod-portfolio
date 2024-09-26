@@ -2,12 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import cricket from "../../Assets/Projects/DASHBOARD.png";
+import cracks from "../../Assets/Projects/crack detection.png";
+import bgport from "../../Assets/Projects/bg-port.jpg";
+import weather from "../../Assets/Projects/weather.jpeg";
 
 function Projects() {
   return (
@@ -23,7 +21,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={cracks}
               isBlog={false}
               title="Crack Detection using Deep Learning"
               description="Data Collection from industry, Data Preprocessing, Improviszed existing transfer learning algorithms - VGG16, Resnet50, Inception-Resnetv2, Compared different models, Created a custom hybrid model, Developed a pixel matching algorithm to classify the intensity of cracks - low, medium and high."
@@ -34,7 +32,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={weather}
               isBlog={false}
               title="Weather-Analysis-Python"
               description="Data Collection [Obtaining data from a data scource], Data Preparation[Identifying errors, replacing null values, data transformation], Learning pandas through this dataset [different functions required for data analysis], Asking relevant questions with respect to the dataset, Answeriig questions by perfroming pandas operations and plots"
@@ -44,7 +42,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={bgport}
               isBlog={false}
               title="Credit-Card-Sales-Analysis-Python"
               description=" Executed comprehensive data import, cleaning, and validation for 1,000 customer profiles; visualized transaction histories
@@ -56,7 +54,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={cricket}
               isBlog={false}
               title="Cricket-Analysis-Excel"
               description="Web Scraping of data from ESPNCricinfo, Data Preparation, Pivot Chart Working to filter multiple data, Creating different graphs - Bar Chart, Trendlines, Applying Colors for better viewing, Create a professional dashboard, Communicating key insights through dashboard."
